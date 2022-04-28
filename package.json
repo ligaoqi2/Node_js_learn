@@ -3,8 +3,14 @@
     "body-parser": "^1.20.0",
     "cookie-parser": "^1.4.6",
     "express": "^4.18.0",
+    "fs-extra": "^10.1.0",
     "koa": "^2.13.4",
+    "koa-body": "^5.0.0",
+    "koa-morgan": "^1.0.1",
+    "koa-router": "^10.1.1",
+    "koa-static": "^5.0.0",
     "mongodb": "^4.5.0",
-    "multer": "^1.4.4"
+    "multer": "^1.4.4",
+    "optimist": "^0.6.1"
   }
 }
